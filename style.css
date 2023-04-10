@@ -3,7 +3,7 @@
 font-family: 'Open Sans;', sans-sherif;
 background-image :  url("https://img.freepik.com/free-vector/minimal-geometric-stripe-shape-background_1409-1014.jpg");
 backround-size: 100%;
-background-repeat: repeat;
+background-repeat: no-repeat;
 background-attachment: fixed;
 }
 
